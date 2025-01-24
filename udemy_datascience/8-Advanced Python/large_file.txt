@@ -1,0 +1,22 @@
+Hi my name is Ishika Saha
+Here i am writing about the role of a Data Scientist
+
+Roles & Responsibilities of a Data Scientist:
+
+Management: The Data Scientist plays an insignificant managerial role where he supports the construction of the base of futuristic and technical abilities within the Data and 
+Analytics field in order to assist various planned and continuing data analytics projects.
+
+Analytics: The Data Scientist represents a scientific role where he plans, implements, and assesses high-level statistical models and strategies for application in the business’s most complex issues.
+The Data Scientist develops econometric and statistical models for various problems including projections, classification, clustering, pattern analysis, sampling, simulations, and so forth.
+
+Strategy/Design: The Data Scientist performs a vital role in the advancement of innovative strategies to understand the business’s consumer trends and management as well as ways to solve difficult business problems,
+for instance, the optimization of product fulfillment and entire profit.
+
+Collaboration: The role of the Data Scientist is not a solitary role and in this position, he collaborates with superior data scientists to communicate obstacles and 
+findings to relevant stakeholders in an effort to enhance drive business performance and decision-making.
+
+Knowledge: The Data Scientist also takes leadership to explore different technologies and tools with the vision of creating innovative data-driven insights 
+for the business at the most agile pace feasible. In this situation, the Data Scientist also uses initiative in assessing and utilizing new and enhanced data 
+science methods for the business, which he delivers to senior management of approval.
+
+Other Duties: A Data Scientist also performs related tasks and tasks as assigned by the Senior Data Scientist, Head of Data Science, Chief Data Officer, or the Employer.
