@@ -8,3 +8,18 @@
 2025/02/09 10:10:33-root-WARNING-This is a warning msg
 2025/02/09 10:10:33-root-ERROR-This is a error msg
 2025/02/09 10:10:33-root-CRITICAL-This is a critical msg
+2025-02-16 09:58:39 - root - DEBUG - This is assignment debug message
+2025-02-16 09:58:39 - root - WARNING - This is assignment debug message
+2025-02-16 09:58:39 - root - ERROR - This is assignment debug message
+2025-02-16 09:58:39 - root - INFO - This is assignment debug message
+2025-02-16 09:58:39 - root - CRITICAL - This is assignment debug message
+DEBUG:root:This is a debug message
+INFO:root:This is an info message
+WARNING:root:This is a warning message
+ERROR:root:This is an error message
+CRITICAL:root:This is a critical message
+DEBUG:my_logger:This is a debug message
+INFO:my_logger:This is an info message
+WARNING:my_logger:This is a warning message
+ERROR:my_logger:This is an error message
+CRITICAL:my_logger:This is a critical message

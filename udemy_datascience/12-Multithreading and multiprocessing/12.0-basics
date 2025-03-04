@@ -1,0 +1,17 @@
+Program: It is a sequence of instructions written in any programming language.
+Ex: Google chrome, Word, Excel
+
+Process: It is an instance of a program that is being executed. It has some shared resorces: 
+Code segment of the program, Data segment, Heap where dynamic allocation occurs.
+Also has a stack and registers. Ex: any website opened on chrome is a process of the program chrome. 
+An excel sheet is process of excel program.
+
+Threads: Its a unit of execution within a process. 2 types: Single threaded process and multi threaded process.
+In single thread one process has one thread that accesses the stack and registers. 
+Ex: In MS Paint(process) when we click on the rectangle option to draw a rectangle then a single thread 
+gets created upon the click. Same a single thread is created on clicking the circle option.
+In multi threading multiple threads will be there in a proces , each having its seperate stack and register 
+and will share the other resources of process.
+
+A process basically helps to access any instance of a program whereas, 
+threads helps to use any functionality of the process.
