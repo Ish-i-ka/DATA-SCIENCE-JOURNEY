@@ -1,4 +1,4 @@
-#Multithreading is used when
+#Multithreading is used when?
 #In I/O operations
 #In concurrent operations.
 
@@ -18,7 +18,7 @@ def print_letters():
         
 t=time.time()         #gives current time
 print_numbers()
-print_letters()
+#print_letters()
 fin_time = time.time() - t
 print(fin_time)
 
@@ -42,10 +42,10 @@ t=time.time()
 
 #Starting the threads
 t1.start()
-t2.start()
+#t2.start()
 #Wait for threads to complete then finally join into the main single thread
 t1.join()
-t2.join()
+#t2.join()
 
 fin_time = time.time() - t
 print(fin_time)
