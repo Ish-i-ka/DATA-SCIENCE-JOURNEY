@@ -1,0 +1,7 @@
+WSGI - Web Server Gateway Interface
+This is used by Flask Framework to built the connection between the web server and the web app.
+So that the the web server can redirect the requests to the web app and response from app can be sent back to server
+through this.
+
+Jinja2 - Web Template Engine
+Used to combine a layout of a web page and a data source(Ml model, Sql database, csv sheet) to create a dynamic web page.

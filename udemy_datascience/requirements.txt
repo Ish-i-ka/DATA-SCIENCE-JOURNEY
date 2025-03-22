@@ -4,3 +4,6 @@ numpy
 lxml
 matplotlib
 bs4
+ipykernel
+seaborn
+flask

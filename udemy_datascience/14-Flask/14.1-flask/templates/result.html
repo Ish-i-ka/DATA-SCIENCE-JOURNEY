@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Results</title>
+    </head>
+    <body>
+        <p>You scored : {{result}}</p>
+        <h1>
+            Based On the marks you have  
+            {% if result >=50 %}
+            <h2>Passed</h2>
+            {% else %}
+            <h2>Failed</h2>
+            {% endif %}
+        </h1>
+    </body>
+</html>     
