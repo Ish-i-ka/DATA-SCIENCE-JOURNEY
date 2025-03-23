@@ -62,7 +62,7 @@ def successres(score):
 def successif(score):                     
     return render_template('result.html',result = score)   
 
-## "/success" and "/successif" both doing same thing , just the  
+## "/success" and "/successif" both doing same thing , just the way of rendering is different 
 
 
 @app.route('/fail/<int:score>')      
