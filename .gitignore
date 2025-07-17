@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+env/
+
+# Data files
+*.csv
+*.xlsx
+*.txt
+*.json
+data/
